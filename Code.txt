@@ -1,6 +1,7 @@
 import numpy as np
 import time
 
+# declaration of variables
 n_hidden = 10
 n_in = 10
 n_out = 10
